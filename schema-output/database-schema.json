@@ -1,0 +1,1420 @@
+{
+  "database": "NeoEmployee",
+  "analyzedAt": "2025-06-22T10:46:41.884Z",
+  "collections": {
+    "sessions": {
+      "collectionName": "sessions",
+      "documentCount": 22,
+      "sampleSize": 22,
+      "fields": {
+        "_id": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 22,
+          "samples": [
+            "uog8OxKvFDwFjKLcCRYaHpdWpbtkCYc9xtGSDJig",
+            "cL7vBU43qWteIRFIQtBStG8kySviyzGWGYNk8f30",
+            "I2cSBgtH0hbSYwOqgyymJ9vncupFrJFFouj14Yz0",
+            "GAbVmaq1DTlit3UnYjgr4CIcuo9BVs791tOCXXJn",
+            "Ud1I1ZMIbisKx3BAJqNXFETAf5IJRlPdcnCasRR1"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "payload": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 22,
+          "samples": [
+            "YTozOntzOjY6Il90b2tlbiI7czo0MDoiSU1ONklrSDZGSzF1bjFiSmJ0UlpUd1BEV1FkODBCS1FBanJUM1VzYSI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjM6Imh0dHA6Ly8xOTIuMTY4LjEuNTo4MDAxIjt9czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319fQ==",
+            "YTozOntzOjY6Il90b2tlbiI7czo0MDoiNU11VmFOUTVwa3MxWXJHb2QzTXF2eVJOdjE4YUNydUZFd005MkRnRyI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjM6Imh0dHA6Ly8xOTIuMTY4LjEuNTo4MDAxIjt9czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319fQ==",
+            "YTozOntzOjY6Il90b2tlbiI7czo0MDoiUE5YWlVkNWtUSW1wMzhKNGhXVjljYUh6Z0FFak80bGkzMGNWSlZyayI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjQ6Imh0dHA6Ly8xOTIuMTY4LjEuMTA6ODAwMSI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0=",
+            "YTozOntzOjY6Il90b2tlbiI7czo0MDoicXpEcG9MOGNHb0U0MURLMFVza1VxelZJcUQ2eldIenJ2TGlSWW5qWSI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjQ6Imh0dHA6Ly8xOTIuMTY4LjEuMTA6ODAwMSI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0=",
+            "YTozOntzOjY6Il90b2tlbiI7czo0MDoiSG02MjBUVmlWblVqVUc2NnBOUFk5REpLWlpXUGxrZWNyWTN1bVRpZiI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE6Imh0dHA6Ly9sb2NhbGhvc3Q6ODAwMSI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0="
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "last_activity": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 22,
+          "samples": [
+            1732702072,
+            1733231918,
+            1733499444,
+            1733681575,
+            1733687140
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "number"
+          ]
+        },
+        "custom": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 22,
+          "samples": [
+            "aimer_session_debug",
+            "aimer_session_debug",
+            "aimer_session_debug",
+            "aimer_session_debug",
+            "aimer_session_debug"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "user_id": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 22,
+          "samples": [],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "null"
+          ]
+        },
+        "ip_address": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 22,
+          "samples": [
+            "192.168.1.3",
+            "192.168.1.7",
+            "192.168.1.10",
+            "192.168.1.10",
+            "127.0.0.1"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "user_agent": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 22,
+          "samples": [
+            "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        }
+      },
+      "indexes": [
+        {
+          "v": 2,
+          "key": {
+            "_id": 1
+          },
+          "name": "_id_"
+        }
+      ],
+      "relationships": []
+    },
+    "news": {
+      "collectionName": "news",
+      "documentCount": 1,
+      "sampleSize": 1,
+      "fields": {
+        "_id": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            "675a6eb64887eb3cb702f692"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "ObjectId"
+          ]
+        },
+        "tags": {
+          "isArray": true,
+          "isOptional": false,
+          "count": 1,
+          "samples": [],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "array",
+            "string"
+          ]
+        },
+        "title": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            "Monthly Team Building"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "preview_content": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            "Join us for our monthly team building activity! We'll have fun games, team challenges, and delicious food. Don't miss out on this opportunity to bond with your colleagues."
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "datetime": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            "2024-12-20T08:30:00.000Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        },
+        "updated_at": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            "2024-12-12T05:03:50.983Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        },
+        "created_at": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            "2024-12-12T05:03:50.983Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        }
+      },
+      "indexes": [
+        {
+          "v": 2,
+          "key": {
+            "_id": 1
+          },
+          "name": "_id_"
+        }
+      ],
+      "relationships": []
+    },
+    "tasks": {
+      "collectionName": "tasks",
+      "documentCount": 3,
+      "sampleSize": 3,
+      "fields": {
+        "_id": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 3,
+          "samples": [
+            "675a57bacecb961f1a065542",
+            "675a64adc5845e47fa003912",
+            "675a8a84d4c6b3d84d0e51f6"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "ObjectId"
+          ]
+        },
+        "status": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 3,
+          "samples": [
+            "completed",
+            "pending",
+            "completed"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "priority": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 3,
+          "samples": [
+            "medium",
+            "medium",
+            "medium"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "collaborators": {
+          "isArray": true,
+          "isOptional": false,
+          "count": 3,
+          "samples": [],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "array",
+            "string"
+          ]
+        },
+        "attachments": {
+          "isArray": true,
+          "isOptional": false,
+          "count": 3,
+          "samples": [],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "array"
+          ]
+        },
+        "title": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 3,
+          "samples": [
+            "r",
+            "Rumah",
+            "vv"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "description": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 3,
+          "samples": [
+            "f",
+            "Teest",
+            "cc"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "project_name": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 3,
+          "samples": [
+            "Marketing",
+            "Marketing",
+            "Design"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "due_date": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 3,
+          "samples": [
+            "2024-12-13T16:59:59.000Z",
+            "2024-12-30T16:59:59.000Z",
+            "2024-12-14T16:59:59.000Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        },
+        "creator_id": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 3,
+          "samples": [
+            "67571d3bb9086c84af0610d2",
+            "67571d3bb9086c84af0610d2",
+            "67571d3bb9086c84af0610d2"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "ObjectId"
+          ]
+        },
+        "office_id": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 3,
+          "samples": [
+            "673bacbcb895f9f401043ee2",
+            "673bacbcb895f9f401043ee2",
+            "673bacbcb895f9f401043ee2"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "ObjectId"
+          ]
+        },
+        "updated_at": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 3,
+          "samples": [
+            "2024-12-12T04:44:03.649Z",
+            "2024-12-12T04:21:01.716Z",
+            "2024-12-12T07:02:36.016Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        },
+        "created_at": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 3,
+          "samples": [
+            "2024-12-12T03:25:46.672Z",
+            "2024-12-12T04:21:01.716Z",
+            "2024-12-12T07:02:28.366Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        }
+      },
+      "indexes": [
+        {
+          "v": 2,
+          "key": {
+            "_id": 1
+          },
+          "name": "_id_"
+        }
+      ],
+      "relationships": []
+    },
+    "user_verifications": {
+      "collectionName": "user_verifications",
+      "documentCount": 2,
+      "sampleSize": 2,
+      "fields": {
+        "_id": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 2,
+          "samples": [
+            "67571dd0605f9a66860aca73",
+            "675a87dcd4c6b3d84d0e51f4"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "ObjectId"
+          ]
+        },
+        "user_id": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 2,
+          "samples": [
+            "67571dd0605f9a66860aca72",
+            "675a87dcd4c6b3d84d0e51f3"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "ObjectId"
+          ]
+        },
+        "email": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 2,
+          "samples": [
+            "ahmad@socium.sg",
+            "ahmad@socium.sg"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "otp": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 2,
+          "samples": [
+            706032,
+            182786
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "number"
+          ]
+        },
+        "expires_at": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 2,
+          "samples": [
+            "2024-12-09T16:46:50.346Z",
+            "2024-12-12T06:56:05.341Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        },
+        "updated_at": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 2,
+          "samples": [
+            "2024-12-09T16:41:52.619Z",
+            "2024-12-12T06:51:08.854Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        },
+        "created_at": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 2,
+          "samples": [
+            "2024-12-09T16:41:52.619Z",
+            "2024-12-12T06:51:08.854Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        }
+      },
+      "indexes": [
+        {
+          "v": 2,
+          "key": {
+            "_id": 1
+          },
+          "name": "_id_"
+        }
+      ],
+      "relationships": []
+    },
+    "attendances": {
+      "collectionName": "attendances",
+      "documentCount": 4,
+      "sampleSize": 4,
+      "fields": {
+        "_id": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "6758989927ba384b900e4be4",
+            "6758a02727ba384b900e4be5",
+            "6758b5c527ba384b900e4be6",
+            "675ad6f4f0ccf60d13026092"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "ObjectId"
+          ]
+        },
+        "status": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "late",
+            "late",
+            "late",
+            "late"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "check_out_time": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "2024-12-09T20:12:18.740Z",
+            "2024-12-10T22:12:57.399Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "null",
+            "object"
+          ]
+        },
+        "check_out_location": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "[37.4219983,-122.084]",
+            "[-6.2514671,106.8392793]"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "null",
+            "string"
+          ]
+        },
+        "notes": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "null"
+          ]
+        },
+        "user_id": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "67571d3bb9086c84af0610d2",
+            "67571d3bb9086c84af0610d2",
+            "67571d3bb9086c84af0610d2",
+            "67571d3bb9086c84af0610d2"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "ObjectId"
+          ]
+        },
+        "office_id": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "673bacbcb895f9f401043ee2",
+            "673bacbcb895f9f401043ee2",
+            "673bacbcb895f9f401043ee2",
+            "673bacbcb895f9f401043ee2"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "ObjectId"
+          ]
+        },
+        "date": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "2024-11-10T17:00:00.000Z",
+            "2024-12-09T17:00:00.000Z",
+            "2024-12-10T17:00:00.000Z",
+            "2024-12-11T17:00:00.000Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        },
+        "check_in_time": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "2024-11-10T19:38:01.336Z",
+            "2024-12-09T20:10:15.759Z",
+            "2024-12-10T21:42:29.134Z",
+            "2024-12-12T12:28:36.262Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        },
+        "check_in_location": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "[37.4219983,-122.084]",
+            "[37.4219983,-122.084]",
+            "[-6.2514606,106.8392776]",
+            "[-6.2514525,106.8392792]"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "check_in_photo": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "null"
+          ]
+        },
+        "updated_at": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "2024-12-10T19:38:01.336Z",
+            "2024-12-09T20:12:18.742Z",
+            "2024-12-10T22:12:57.399Z",
+            "2024-12-12T12:28:36.262Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        },
+        "created_at": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "2024-12-10T19:38:01.336Z",
+            "2024-12-09T20:10:15.759Z",
+            "2024-12-10T21:42:29.134Z",
+            "2024-12-12T12:28:36.262Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        },
+        "check_out_photo": {
+          "isArray": false,
+          "isOptional": true,
+          "count": 2,
+          "samples": [],
+          "nestedFields": {},
+          "frequency": "50.00",
+          "types": [
+            "null"
+          ]
+        }
+      },
+      "indexes": [
+        {
+          "v": 2,
+          "key": {
+            "_id": 1
+          },
+          "name": "_id_"
+        }
+      ],
+      "relationships": []
+    },
+    "employee_offices": {
+      "collectionName": "employee_offices",
+      "documentCount": 2,
+      "sampleSize": 2,
+      "fields": {
+        "_id": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 2,
+          "samples": [
+            "67571e69605f9a66860aca74",
+            "675a8920d4c6b3d84d0e51f5"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "ObjectId"
+          ]
+        },
+        "status": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 2,
+          "samples": [
+            "active",
+            "active"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "end_date": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 2,
+          "samples": [],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "null"
+          ]
+        },
+        "user_id": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 2,
+          "samples": [
+            "67571d3bb9086c84af0610d2",
+            "675a87dcd4c6b3d84d0e51f3"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "ObjectId"
+          ]
+        },
+        "office_id": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 2,
+          "samples": [
+            "673bacbcb895f9f401043ee2",
+            "673bacbcb895f9f401043ee2"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "ObjectId"
+          ]
+        },
+        "start_date": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 2,
+          "samples": [
+            "2024-12-09T16:44:25.098Z",
+            "2024-12-12T06:56:32.879Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        },
+        "updated_at": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 2,
+          "samples": [
+            "2024-12-09T16:44:25.099Z",
+            "2024-12-12T06:56:32.879Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        },
+        "created_at": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 2,
+          "samples": [
+            "2024-12-09T16:44:25.099Z",
+            "2024-12-12T06:56:32.879Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        }
+      },
+      "indexes": [
+        {
+          "v": 2,
+          "key": {
+            "_id": 1
+          },
+          "name": "_id_"
+        }
+      ],
+      "relationships": []
+    },
+    "cache": {
+      "collectionName": "cache",
+      "documentCount": 1,
+      "sampleSize": 1,
+      "fields": {
+        "_id": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            "675a8ce93ca9d65ff3e38ce6"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "ObjectId"
+          ]
+        },
+        "key": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            "z5Sq9vgTAIapM6tJ"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "expiration": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            2049347561
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "number"
+          ]
+        },
+        "value": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            "s:7:\"forever\";"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        }
+      },
+      "indexes": [
+        {
+          "v": 2,
+          "key": {
+            "_id": 1
+          },
+          "name": "_id_"
+        }
+      ],
+      "relationships": []
+    },
+    "offices": {
+      "collectionName": "offices",
+      "documentCount": 1,
+      "sampleSize": 1,
+      "fields": {
+        "_id": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            "673bacbcb895f9f401043ee2"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "ObjectId"
+          ]
+        },
+        "is_active": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            true
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "boolean"
+          ]
+        },
+        "name": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            "Head Office"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "address": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            "L'avenue, Sampoerna University"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "latitude": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            -6.2514753
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "number"
+          ]
+        },
+        "longitude": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            106.8392778
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "number"
+          ]
+        },
+        "radius": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            100
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "number"
+          ]
+        },
+        "working_hours_start": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            "08:00"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "working_hours_end": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            "15:00"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "updated_at": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            "2024-11-18T21:08:12.936Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        },
+        "created_at": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 1,
+          "samples": [
+            "2024-11-18T21:08:12.936Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        }
+      },
+      "indexes": [
+        {
+          "v": 2,
+          "key": {
+            "_id": 1
+          },
+          "name": "_id_"
+        }
+      ],
+      "relationships": []
+    },
+    "users": {
+      "collectionName": "users",
+      "documentCount": 4,
+      "sampleSize": 4,
+      "fields": {
+        "_id": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "67571d3bb9086c84af0610d2",
+            "675a75884887eb3cb702f693",
+            "675a7de9d4c6b3d84d0e51f2",
+            "675a87dcd4c6b3d84d0e51f3"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "ObjectId"
+          ]
+        },
+        "image": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "/storage/images/profile/1733854986_67571d3bb9086c84af0610d2.jpg",
+            "/storage/images/profile/1733981604_675a75884887eb3cb702f693.jpg",
+            "/storage/images/profile/1733983753_675a7de9d4c6b3d84d0e51f2.jpg",
+            "/storage/images/profile/1733986505_675a87dcd4c6b3d84d0e51f3.jpg"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "role": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "employee",
+            "employee",
+            "employee",
+            "employee"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "is_verified": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            true,
+            true,
+            true,
+            true
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "boolean"
+          ]
+        },
+        "email_verified_at": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "2024-12-09T16:39:23.873Z",
+            "2024-12-12T05:32:56.409Z",
+            "2024-12-12T06:08:41.350Z",
+            "2024-12-12T06:51:42.735Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        },
+        "fcm_tokens": {
+          "isArray": true,
+          "isOptional": false,
+          "count": 4,
+          "samples": [],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "array",
+            "string"
+          ]
+        },
+        "google_uid": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "QhEgv1u0eecAEiYlx9I783v9q0r1",
+            "oQVOHUXgNFbm2iMLJSKRA69aiOs2",
+            "zAsH8sNrbvOchq2BGjtzM1ZjqUy2"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string",
+            "null"
+          ]
+        },
+        "email": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "sebelasmipa010@gmail.com",
+            "sidan1722@gmail.com",
+            "sebelasmipa0@gmail.com",
+            "ahmad@socium.sg"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "password": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "$2y$12$4ftbDAjhNRBqSRQTOyt4U.7hSZ4pl8tmTt0O1ys8O/yUrHgSJSyvq",
+            "$2y$12$plLudfKYz3ECxWEVya7EauO3qBWhzNmM2YtlHr3qDxUmhT4Esi/K6",
+            "$2y$12$NEEZ5XBgtme9FJzwU4qU4OQ7f/t567XpXgGkQFUmbNzuU51Q6ty7u",
+            "$2y$12$uzTAKwoQCrnf4P/C5Q7aNO8OeXn00nXJ.3Vpzj7FrMVbRNFtZuLqq"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "name": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "Sebelas MIPA",
+            "Sidan____",
+            "Sebelas MIPA",
+            "Ahmad"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "phone": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "082"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "null",
+            "string"
+          ]
+        },
+        "gender": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "Male"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "null",
+            "string"
+          ]
+        },
+        "age": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "20"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "null",
+            "string"
+          ]
+        },
+        "address": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "tt"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "null",
+            "string"
+          ]
+        },
+        "reg_method": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "google",
+            "google",
+            "google",
+            "manual"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "string"
+          ]
+        },
+        "updated_at": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "2024-12-12T06:58:56.435Z",
+            "2024-12-12T05:33:24.365Z",
+            "2024-12-12T06:09:13.685Z",
+            "2024-12-12T06:55:05.218Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        },
+        "created_at": {
+          "isArray": false,
+          "isOptional": false,
+          "count": 4,
+          "samples": [
+            "2024-12-09T16:39:23.868Z",
+            "2024-12-12T05:32:56.408Z",
+            "2024-12-12T06:08:41.345Z",
+            "2024-12-12T06:51:08.687Z"
+          ],
+          "nestedFields": {},
+          "frequency": "100.00",
+          "types": [
+            "object"
+          ]
+        }
+      },
+      "indexes": [
+        {
+          "v": 2,
+          "key": {
+            "_id": 1
+          },
+          "name": "_id_"
+        }
+      ],
+      "relationships": []
+    }
+  },
+  "relationships": []
+}
