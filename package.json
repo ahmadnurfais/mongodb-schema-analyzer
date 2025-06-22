@@ -1,0 +1,30 @@
+{
+  "name": "mongodb-schema-analyzer",
+  "version": "1.0.0",
+  "description": "Analyze MongoDB database schema and generate models with relationship detection",
+  "main": "schema-analyzer.js",
+  "scripts": {
+    "start": "node schema-analyzer.js",
+    "analyze": "node schema-analyzer.js",
+    "test": "node test-analyzer.js"
+  },
+  "keywords": [
+    "mongodb",
+    "schema",
+    "analysis",
+    "mongoose",
+    "database",
+    "modeling"
+  ],
+  "author": "ahmadnurfais",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^6.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "bin": {
+    "mongo-schema": "./schema-analyzer.js"
+  }
+}
